@@ -1,0 +1,18 @@
+{
+  "name": "hello-javascript-pnpm-ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "ava",
+    "cleandep": "rm -rf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^6.2.0",
+    "eslint": "^9.18.0"
+  }
+}
